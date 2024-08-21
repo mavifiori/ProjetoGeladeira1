@@ -1,0 +1,12 @@
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\bin\Debug\net8.0\GeladeiraEstrutura.deps.json
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\bin\Debug\net8.0\GeladeiraEstrutura.dll
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\bin\Debug\net8.0\GeladeiraEstrutura.pdb
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\GeladeiraEstrutura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\GeladeiraEstrutura.AssemblyInfoInputs.cache
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\GeladeiraEstrutura.AssemblyInfo.cs
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\GeladeiraEstrutura.csproj.CoreCompileInputs.cache
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\GeladeiraEstrutura.sourcelink.json
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\GeladeiraEstrutura.dll
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\refint\GeladeiraEstrutura.dll
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\GeladeiraEstrutura.pdb
+C:\Users\vicsf\OneDrive\Documentos\ProjetoGeladeira1\GeladeiraEstrutura\obj\Debug\net8.0\ref\GeladeiraEstrutura.dll

@@ -4,7 +4,7 @@ using GeladeiraEstrutura;
 
 namespace GeladeiraExibir
 {
-    public class Mostrar
+    public class Program
     {
 
         static void Main(string[] args)
